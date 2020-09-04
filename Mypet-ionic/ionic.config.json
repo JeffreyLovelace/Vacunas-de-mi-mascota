@@ -1,0 +1,7 @@
+{
+  "name": "Mypet-ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
